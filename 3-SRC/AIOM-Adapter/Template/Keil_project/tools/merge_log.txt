@@ -1,0 +1,10 @@
+[DEBUG] 开始执行时间: 2025/10/15 周三 14:45:07.51 
+[DEBUG] 参数: "d:\zdb\CDQ\CDQ_Motor\Template\Keil_project\output\app\app.HEX" 
+[DEBUG] 当前目录: d:\zdb\CDQ\CDQ_Motor\Template\Keil_project 
+[DEBUG] 脚本路径: d:\zdb\CDQ\CDQ_Motor\Template\Keil_project\tools\ 
+文件名、目录名或卷标语法不正确。
+[DEBUG] 切换后目录: d:\zdb\CDQ\CDQ_Motor\Template\Keil_project 
+[DEBUG] 接收到的APP_HEX: d:\zdb\CDQ\CDQ_Motor\Template\Keil_project\output\app\app.HEX 
+[INFO] 正在合并固件... 
+[DEBUG] 输出文件: d:\zdb\CDQ\CDQ_Motor\Template\Keil_project\tools\..\output\hex\hex_2025_10_15_14_45.hex 
+[成功] 固件合并完成:  

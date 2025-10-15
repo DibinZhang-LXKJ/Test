@@ -1,0 +1,11 @@
+*** Using Compiler 'V6.22', folder: 'D:\Keil_v5\ARM\ARMCLANG\Bin'
+Build target 'SPQ_APP'
+compiling actuator.c...
+linking...
+Program Size: Code=28376 RO-data=836 RW-data=44 ZI-data=6332  
+FromELF: creating hex file...
+After Build - User command #1: cmd /c "".\tools\merge_hex.bat" "d:\zdb\CDQ\CDQ_Motor\Template\Keil_project\output\app\app.HEX""
+[成功] 固件合并完成: 
+After Build - User command #2: fromelf --bin --output=.\output\update_firmware\app.bin "d:\zdb\CDQ\CDQ_Motor\Template\Keil_project\output\app\app.axf"
+".\output\app\app.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:02
